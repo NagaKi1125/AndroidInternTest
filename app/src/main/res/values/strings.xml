@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">AndroidIntern</string>
+    <string name="card_navigation">card_navigation</string>
+    <string name="android_intership_test">Android Intership Test</string>
+    <string name="to_register">To Register</string>
+    <string name="login">Login</string>
+    <string name="input_password">Input Password</string>
+    <string name="password">Password</string>
+    <string name="input_id">Input id</string>
+    <string name="android_intern_test">Android Intern test</string>
+    <string name="id">ID</string>
+    <string name="re_password">Re-password</string>
+    <string name="enter_password_again">Enter password again</string>
+    <string name="email">Email</string>
+    <string name="input_email">Input email</string>
+    <string name="birthday">Birthday</string>
+    <string name="input_birthday">Input Birthday</string>
+    <string name="check_id">Check ID</string>
+    <string name="sign_up">Sign up</string>
+    <string name="back_to_login">Back to login</string>
+    <string name="sign_up_member">Sign up member</string>
+</resources>

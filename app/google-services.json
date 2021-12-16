@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "521371656641",
+    "project_id": "androidintern-7bda1",
+    "storage_bucket": "androidintern-7bda1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521371656641:android:2194cdbd815ca26fabcf40",
+        "android_client_info": {
+          "package_name": "com.nagaki.vuhoang.androidintern"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521371656641-i4jsdv1e181boc1v7ljre4tsqp2t14b3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3x9qRFjUYBoCfdYBN4ZAxuGEKtAWtx3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521371656641-i4jsdv1e181boc1v7ljre4tsqp2t14b3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
